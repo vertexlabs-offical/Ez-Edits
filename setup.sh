@@ -1,0 +1,9 @@
+# Streamlit App Sharing - Requirements for Cloud
+
+streamlit>=1.28.0
+moviepy>=1.0.3
+opencv-python>=4.8.0
+pydub>=0.25.1
+pillow>=10.0.0
+numpy>=1.24.0
+requests>=2.31.0
